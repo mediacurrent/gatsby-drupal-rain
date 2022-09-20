@@ -28,7 +28,7 @@ Imoprtant: Install https://bitbucket.org/mediacurrent/rain_demo and https://www.
 3.  **Test your Gatsby build.**
 
     ```shell
-    npm run develop
+    yarn develop
     ```
 
 5.  **Open the code and start customizing!**
